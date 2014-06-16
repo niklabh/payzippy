@@ -20,13 +20,17 @@ https://www.payzippy.com/apidoc
 _(Coming soon)_
 
 ## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
+Contributions are most welcome
 
 ## Release History
 0.0.1
 ------
 - BASIC API definations and project structure
 - CHECKSUMHASH check works on request and response
+
+0.0.2
+------
+- Dependencies fix
 
 ## License
 Licensed under the MIT license.
