@@ -29,9 +29,7 @@
     "api"
   ],
   "dependencies": {
-    "request": "^2.36.0"
-  },
-  "devDependencies": {
+    "request": "^2.36.0",
     "debug": "^1.0.2"
   }
 }
