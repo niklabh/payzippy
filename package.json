@@ -14,6 +14,9 @@
     "email": "niklabh811@gmail.com",
     "url": "nikhilranjan.com"
   },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
   "scripts": {
     "test": "node test/index.js"
   },
