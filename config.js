@@ -11,6 +11,7 @@ var config = {
   callback_url: '',
   transaction_type: 'SALE',
   currency: 'INR',
+  hash_method:'SHA256',
   timeout: 20*1000, // 20 sec Timeout
   strictSSL: true,
   endpoints: {
