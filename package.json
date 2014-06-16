@@ -1,0 +1,34 @@
+{
+  "name": "payzippy",
+  "version": "0.0.1",
+  "description": "Payzippy payment gateway api implementation for node",
+  "main": "index.js",
+  "homepage": "https://github.com/niklabh/payzippy",
+  "bugs": "https://github.com/niklabh/payzippy/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niklabh/payzippy"
+  },
+  "author": {
+    "name": "Nikhil Ranjan",
+    "email": "niklabh811@gmail.com",
+    "url": "nikhilranjan.com"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "license": "MIT",
+  "keywords":[
+    "payzippy",
+    "payzippy",
+    "payment",
+    "gateway",
+    "api"
+  ],
+  "dependencies": {
+    "request": "^2.36.0"
+  },
+  "devDependencies": {
+    "debug": "^1.0.2"
+  }
+}
