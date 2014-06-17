@@ -33,20 +33,6 @@ https://github.com/niklabh/payzippy-example
 ## Contributing
 Contributions are most welcome
 
-## Release History
-0.0.1
-------
-- BASIC API definations and project structure
-- CHECKSUMHASH check works on request and response
-
-0.0.2
-------
-- Dependencies fix
-
-0.0.3
-------
-- Completed request, refund, status APIs
-- Added Tests
 
 ## License
 Licensed under the MIT license.
