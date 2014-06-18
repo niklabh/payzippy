@@ -1,4 +1,4 @@
-# payzippy
+# payzippy[![Build Status](https://secure.travis-ci.org/niklabh/payzippy.png?branch=master)](http://travis-ci.org/niklabh/payzippy)
 Payzippy payment gateway api implementation for node. Provides API for charging, handling response, refund and status check.
 
 ## Getting Started
