@@ -18,7 +18,7 @@
     "node": ">= 0.10.0"
   },
   "scripts": {
-    "test": "node test/charge.js"
+    "test": "node test/charge.js 2344 200"
   },
   "license": "MIT",
   "keywords":[
